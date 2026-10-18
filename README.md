@@ -4,9 +4,9 @@
 [![Flask](https://img.shields.io/badge/Flask-3.x-black?logo=flask)](https://flask.palletsprojects.com/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-orange?logo=scikit-learn)](https://scikit-learn.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](https://www.docker.com/)
-[![AWS EC2](https://img.shields.io/badge/Deployed-AWS%20EC2-FF9900?logo=amazonaws)](http://YOUR_EC2_PUBLIC_IP:8080)
+[![AWS EC2](https://img.shields.io/badge/Deployed-AWS%20EC2-FF9900?logo=amazonaws)](http://65.2.150.115:8080)
 
-> **Live Demo:** [http://YOUR_EC2_PUBLIC_IP:8080](http://YOUR_EC2_PUBLIC_IP:8080)  
+> **Live Demo:** [http://65.2.150.115:8080](http://65.2.150.115:8080)  
 > **GitHub:** [https://github.com/mihir2452005/cartsense-ai](https://github.com/mihir2452005/cartsense-ai)
 
 ---
@@ -156,7 +156,7 @@ The application is deployed on an **AWS EC2 Ubuntu instance** running inside a D
 | OS | Ubuntu Server LTS |
 | Container Runtime | Docker |
 | Port | 8080 |
-| Live URL | [http://YOUR_EC2_PUBLIC_IP:8080](http://YOUR_EC2_PUBLIC_IP:8080) |
+| Live URL | [http://YOUR_EC2_PUBLIC_IP:8080](http://65.2.150.115:8080) |
 
 ### Deployment steps (summary)
 ```bash
